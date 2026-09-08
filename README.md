@@ -10,6 +10,10 @@
 🎓 &nbsp;I'm currently studying Computer Science in Muhammadiyah Bandung University.\
 👾 &nbsp;Welcome to my Github Profile ! ^_^ !
 
+### 💻 My Setup
+* **OS:** CachyOS (Arch-based) ![CachyOS](https://shields.io)
+* **Kernel:** Linux-CachyOS `x86-64-v3`
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 &nbsp;
@@ -19,11 +23,6 @@
 &nbsp;
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-![CachyOS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cachyos.png)&nbsp;
-![Linux](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png)&nbsp;
-![Docker](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png)&nbsp;
-![Flutter](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -33,6 +32,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png)&nbsp;
+
 
 
