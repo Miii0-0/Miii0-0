@@ -18,6 +18,8 @@
 &nbsp;
 &nbsp;
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ![CachyOS](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cachyos.png)&nbsp;
 ![Linux](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png)&nbsp;
 ![Docker](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png)&nbsp;
