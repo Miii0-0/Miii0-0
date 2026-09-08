@@ -11,7 +11,7 @@
 👾 &nbsp;Welcome to my Github Profile ! ^_^ !
 
 ### 💻 My Setup
-* **OS:** CachyOS (Arch-based) <img src="https://githubusercontent.com" alt="CachyOS Logo" width="100" height="100" align="left" />
+* **OS:** CachyOS (Arch-based) <img src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png" alt="CachyOS Logo" width="100" height="100" align="left" />
 
 * **Kernel:** Linux-CachyOS `x86-64-v3`
 
@@ -23,7 +23,8 @@
 &nbsp;
 &nbsp;
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Docker](https://shields.io)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
