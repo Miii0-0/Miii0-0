@@ -11,7 +11,8 @@
 👾 &nbsp;Welcome to my Github Profile ! ^_^ !
 
 ### 💻 My Setup
-* **OS:** CachyOS (Arch-based) ![CachyOS Logo](https://githubusercontent.com)
+* **OS:** CachyOS (Arch-based) <img src="https://githubusercontent.com" alt="CachyOS Logo" width="100" height="100" align="left" />
+
 * **Kernel:** Linux-CachyOS `x86-64-v3`
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
