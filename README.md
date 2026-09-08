@@ -6,8 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-😆 &nbsp;Hello guys 
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+😆 &nbsp;Hello guys let me introduce my self, my name its Julian Azmy Muyassar , u can just call me Azmy, Julian or whatever it its.\
+🎓 &nbsp;I'm currently studying Computer Science in Muhammadiyah Bandung University.\
+👾 &nbsp;Welcome to my Github Profile ! ^_^ !
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
