@@ -12,8 +12,8 @@
 
 ### 💻 My Setup
 * **OS:** CachyOS (Arch-based) <img src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png" alt="CachyOS Logo" width="100" height="100" align="left" />
-
 * **Kernel:** Linux-CachyOS `x86-64-v3`
+* **Specs :** Thinkpad x395 Ryzen 5 3500u w/ Radeon RADV Graphics
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
