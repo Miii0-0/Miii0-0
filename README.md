@@ -11,7 +11,7 @@
 👾 &nbsp;Welcome to my Github Profile ! ^_^ !
 
 ### 💻 My Setup
-* **OS:** CachyOS (Arch-based) <img src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png" alt="CachyOS Logo" width="100" height="100" align="left" />
+* **OS:** CachyOS (Arch-based) <img src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png" alt="CachyOS Logo" width="70" height="70" align="left" />
 * **Kernel:** Linux-CachyOS `x86-64-v3`
 * **Specs :** Thinkpad x395 Ryzen 5 3500u w/ Radeon RADV Graphics
 
